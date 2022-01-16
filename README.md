@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/faq-accordion-card-cHCHC5dFL)
 - Live Site URL: [Add live site URL here](https://condescending-pare-8bd94f.netlify.app/)
 
 ## My process
