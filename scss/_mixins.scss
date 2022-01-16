@@ -1,0 +1,6 @@
+// Breakpoint
+@mixin for-desktop {
+  @media (min-width: 56em) {
+    @content;
+  }
+}
